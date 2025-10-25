@@ -1,6 +1,6 @@
 # Network-On-Chip-Based-System-Design
 
-This repository contains the code and findings for the Design Project (BITS Pilani – CS F377).
+This repository contains the code and findings for my Design Project (BITS Pilani – CS F377).
 
 # Overview
 
