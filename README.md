@@ -4,6 +4,6 @@ This repository contains the code and findings for the Design Project (BITS Pila
 
 # Overview
 
-◦ Worked on finding an optimal mapping of tasks for a given application communication graph onto tiles of a 2-D mesh topology graph so that the total number of microring resonators to be turned on in optical crux routers is minimum, under the XY routing mechanism.
+- Worked on finding an optimal mapping of tasks for a given application communication graph onto tiles of a 2-D mesh topology graph so that the total number of microring resonators to be turned on in optical crux routers is minimum, under the XY routing mechanism.
 
-◦ Formulated the above problem as an ILP model and solved it using ILOG CPLEX Optimization Studio.
+- Formulated the above problem as an ILP model and solved it using ILOG CPLEX Optimization Studio.
